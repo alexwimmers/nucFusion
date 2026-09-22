@@ -1,0 +1,8 @@
+This repository contains the code and data used for the analysis presented in the article "Too cheap to meter? A stochastic analysis of projected future fusion costs" (by Stefania Böhnlein, Fanny Böse, Claudia Kemfert, Christian von Hirschhausen and Alexander Wimmers).
+The article was submitted to iScience in June 2026.
+This version represents the resubmitted version of the article as of September 2026.
+
+Data_upload.xlsx contains all the data collected and used. These data are also provided in the supplementary material of the article itself.
+The other file contains the Python code to execute the stochastic model ("MonteCarlo simulation").
+
+All questions and comments should be directed to the corresponding author Alexander Wimmers at awi@wip.tu-berlin.de
